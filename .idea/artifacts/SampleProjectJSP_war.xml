@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SampleProjectJSP:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/SampleProjectJSP_war</output-path>
+    <root id="archive" name="SampleProjectJSP_war.war">
+      <element id="dir-copy" path="$PROJECT_DIR$/web" />
+    </root>
+  </artifact>
+</component>
